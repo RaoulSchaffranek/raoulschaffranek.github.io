@@ -5,6 +5,7 @@ subtitle: A Leap Forward in Smart Contract Precision and Security
 tags: [DevCon, Rounding Errors, Symbolic Execution, Conference]
 comments: true
 author: Raoul Schaffranek
+cover-img: /assets/img/devcon-2022/raoul-speaks-at-devcon.jpeg
 ---
 
 Thrilled to share insights from my recent presentation at DevCon Bogota! Titled "Tackling Rounding Errors with Precision Analysis", the talk highlighted a crucial aspect of smart contract security: the impact of rounding in the wrong direction.
