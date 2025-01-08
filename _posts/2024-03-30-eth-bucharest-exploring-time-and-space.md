@@ -1,7 +1,7 @@
 ---
 layout: post
-title: EthBucharest
-subtitle: Using a solidity debugger to explore time and space
+title: EthBucharest - Using a solidity debugger to explore time and space
+subtitle: About time
 tags: [Conference, Talk, Symbolic Execution, Debugging, Solidity, EVM]
 comments: true
 author: Raoul Schaffranek
