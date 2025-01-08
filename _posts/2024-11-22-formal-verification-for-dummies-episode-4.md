@@ -5,6 +5,7 @@ subtitle: Using a solidity debugger to explore time and space
 tags: [Formal Verification, Symbolic Execution, Solidity, EVM]
 comments: true
 author: Raoul Schaffranek
+cover-img: /assets/img/fv-for-dummies/fv-for-dummies-4.jpg
 ---
 
 *It’s been a while since my last post in this series. In the meantime, I’ve published two in-depth technical articles on verifying loop invariants for [Runtime Verification](runtimeverification.com). Read them here: [Part 1](https://runtimeverification.com/blog/formally-verifying-loops-part-1) and [Part 2](https://runtimeverification.com/blog/formally-verifying-loops-part-2)*

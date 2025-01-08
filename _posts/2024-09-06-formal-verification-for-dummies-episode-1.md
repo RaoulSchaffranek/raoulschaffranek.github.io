@@ -5,6 +5,7 @@ subtitle: Using a solidity debugger to explore time and space
 tags: [Formal Verification, Symbolic Execution, Solidity, EVM]
 comments: true
 author: Raoul Schaffranek
+cover-img: /assets/img/fv-for-dummies/fv-for-dummies-1.jpg
 ---
 
 Hey everyone! Welcome to the first episode of my new series, "Formal Verification for Dummies." My goal here is to explain complicated topics in simple terms to help others and improve my ability to break things down. I’m not sure how many episodes I’ll do or how often I’ll post—this is just for fun, and when the fun stops, I’ll stop posting! Today, we’re starting with a key concept: **specifications**.

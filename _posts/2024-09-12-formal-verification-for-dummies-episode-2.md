@@ -5,6 +5,7 @@ subtitle: Using a solidity debugger to explore time and space
 tags: [Formal Verification, Symbolic Execution, Solidity, EVM]
 comments: true
 author: Raoul Schaffranek
+cover-img: /assets/img/fv-for-dummies/fv-for-dummies-2.jpg
 ---
 
 Hello again! Today, we’re tackling a super important concept in software testing and formal verification: invariants. If you’ve worked in the Ethereum ecosystem, you’ve probably heard people throw this term around as a catch-all for software requirements, but what does it really mean? In this episode, we’re breaking down the difference between requirements and invariants and why they matter when building secure smart contracts.

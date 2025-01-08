@@ -5,6 +5,7 @@ subtitle: Using a solidity debugger to explore time and space
 tags: [Formal Verification, Symbolic Execution, Solidity, EVM]
 comments: true
 author: Raoul Schaffranek
+cover-img: /assets/img/fv-for-dummies/fv-for-dummies-3.jpg
 ---
 
 In software development, achieving total confidence in code might sound like an unreachable goal. However, in formal verification, we aim to get as close to certainty as possible using proofs. These aren’t just any hand-wavy arguments—they’re mathematical demonstrations that a program behaves exactly as specified. But don’t worry, I’ll explain everything without diving into complex math. In this episode, we’ll break down what proofs are and how they’re used to verify software while keeping it simple and intuitive. Let’s explore how formal verification helps us approach near-perfect assurance in our code.
