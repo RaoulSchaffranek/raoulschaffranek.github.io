@@ -2,9 +2,10 @@
 layout: post
 title: SecureFi - Formal Verification Panel
 subtitle: with Kostas Ferles, Mooly Sagiv, Alexander Hicks and Julian Sutherland
-tags: [Conference, Panbel, Formal Verification, Symbolic Execution]
+tags: [Conference, Panel, Formal Verification, Symbolic Execution]
 comments: true
 author: Raoul Schaffranek
+cover-img: /assets/img/securefi-2024/securefi-panel.jpg
 ---
 
 ### Breaking Down Barriers: Formal Verification in the Blockchain Space

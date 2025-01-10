@@ -5,6 +5,7 @@ subtitle: About time
 tags: [Conference, Talk, Symbolic Execution, Debugging, Solidity, EVM]
 comments: true
 author: Raoul Schaffranek
+cover-img: /assets/img/eth-bucharest-2024/eth-bucharest.jpg
 ---
 
 ### Exploring the Future of Smart Contract Debugging with Symbolic Execution

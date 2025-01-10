@@ -5,6 +5,7 @@ subtitle: Using Simbolik to understand compiler internals
 tags: [Conference, Talk, Debugging, Solidity, EVM, Compiler]
 comments: true
 author: Raoul Schaffranek
+cover-img: /assets/img/defi-security-summit-2024/defi-security-summit.png
 ---
 
 ## Inside the Solidity Compiler: A Peek Into Boilerplate Code & Variable Allocation

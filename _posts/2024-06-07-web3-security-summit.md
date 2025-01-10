@@ -2,9 +2,10 @@
 layout: post
 title: Web3 Security Summit - Fuzzing vs. Formal Verification Panel
 subtitle: "TL;DR: Do both"
-tags: [Conference, Talk, Formal Verification, Symbolic Execution, Debugging, Solidity, EVM]
+tags: [Conference, Panel, Formal Verification, Symbolic Execution, Fuzzing]
 comments: true
 author: Raoul Schaffranek
+cover-img: /assets/img/web3-security-summit-2024/web3-security-summit.jpg
 ---
 
 ### Formal Verification vs Fuzzing: Key Takeaways from the Panel
