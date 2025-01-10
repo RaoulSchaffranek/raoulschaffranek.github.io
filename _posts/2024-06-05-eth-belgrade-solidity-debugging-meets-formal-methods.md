@@ -5,7 +5,7 @@ subtitle: Smart contract debugging and formal verification
 tags: [Conference, Talk, Formal Verification, Symbolic Execution, Debugging, Solidity, EVM]
 comments: true
 author: Raoul Schaffranek
-cover-img: /assets/img/web3-security-summit-2024/web3-security-summit.jpg
+cover-img: /assets/img/eth-belgrade-2024/eth-belgrade.jpg
 ---
 
 ### Demystifying Formal Verification: Tools and Techniques for Smarter Smart Contract Development
